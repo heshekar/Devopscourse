@@ -2,6 +2,8 @@
 
 *Scratch repository used to practise Git basics while following a DevOps course.*
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ## Overview
 
 This repository holds the working files from a hands-on Git exercise: creating a
@@ -37,6 +39,8 @@ Stated explicitly so no one goes looking:
 
 ```text
 .
+├── LICENSE
+├── README.md
 ├── devops
 ├── devopstest123
 └── gitday1
@@ -50,7 +54,7 @@ This is a personal exercise repository and is not looking for contributions.
 
 ## License
 
-<!-- TODO: no LICENSE file present -->
+Released under the [MIT License](LICENSE).
 
 ## Contact
 
